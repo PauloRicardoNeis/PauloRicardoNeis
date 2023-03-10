@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PauloRicardoNeis
-- 👀 I’m interested in ...111
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in back-end and game development
+- 🌱 I’m currently learning Java, SpringBoot
+- 📫 Reach me at paulonormie@gmail.com
 
 <!---
 PauloRicardoNeis/PauloRicardoNeis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
