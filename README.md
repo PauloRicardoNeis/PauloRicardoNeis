@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloRicardoNeis
 - 👀 I’m interested in back-end and game development
-- 🌱 I’m currently learning Java, SpringBoot
+- 🌱 I’m currently learning PHP, laravel, Java, SpringBoot
 - 📫 Reach me at paulo.neis@proton.me
 
 <!---
